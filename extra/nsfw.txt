@@ -13282,7 +13282,6 @@
 0.0.0.0 partner.360os.com
 0.0.0.0 partner.cootekservice.com
 0.0.0.0 partners.adultadworld.com
-0.0.0.0 partners.patreon.com
 0.0.0.0 partners.pornhub.com
 0.0.0.0 party14.com
 0.0.0.0 partyallstar.com
@@ -13299,7 +13298,6 @@
 0.0.0.0 passpix.com
 0.0.0.0 passport.360os.com
 0.0.0.0 pastaesthetictracks.com
-0.0.0.0 patreon.com
 0.0.0.0 paulmarkhamteens.com
 0.0.0.0 pavloviadenver.com
 0.0.0.0 pawg.com

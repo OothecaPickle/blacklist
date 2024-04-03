@@ -13,7 +13,6 @@
 # DOMAINS -------------------------------------------------------------------- #
 #
 0.0.0.0 0.dvl.upornia.com
-0.0.0.0 0.t.4cdn.org
 0.0.0.0 0.xd-cdn.com
 0.0.0.0 0.xhcdn.com
 0.0.0.0 0.xxx-cdn.com
@@ -298,12 +297,8 @@
 0.0.0.0 473888.jacquieetmichel-plancul.com
 0.0.0.0 480.d.u1.gosexpod.com
 0.0.0.0 4adultin.com
-0.0.0.0 4archive.org
 0.0.0.0 4asianporn.com
 0.0.0.0 4bir.com
-0.0.0.0 4cdn.org
-0.0.0.0 4chan.org
-0.0.0.0 4channel.org
 0.0.0.0 4fcams.com
 0.0.0.0 4fuckr.com
 0.0.0.0 4girlsfingerpaint.com
@@ -2355,8 +2350,6 @@
 0.0.0.0 boamovies.com
 0.0.0.0 board.freeones.com
 0.0.0.0 boards.420chan.org
-0.0.0.0 boards.4chan.org
-0.0.0.0 boards.4channel.org
 0.0.0.0 bobmovs.com
 0.0.0.0 bobolike.com
 0.0.0.0 boboporn.com
@@ -8782,7 +8775,6 @@
 0.0.0.0 i-gay.org
 0.0.0.0 i-porn.net
 0.0.0.0 i-sux.com
-0.0.0.0 i.4cdn.org
 0.0.0.0 i.analdin.com
 0.0.0.0 i.anysex.com
 0.0.0.0 i.bcrncdn.com
@@ -15688,7 +15680,6 @@
 0.0.0.0 s-angels.com
 0.0.0.0 s.1ts17.top
 0.0.0.0 s.365ittictic.com
-0.0.0.0 s.4cdn.org
 0.0.0.0 s.angelo.over-blog.org
 0.0.0.0 s.befap.com
 0.0.0.0 s.bhcont.com
@@ -17649,7 +17640,6 @@
 0.0.0.0 szexkepek.net
 0.0.0.0 szexvideok.hu
 0.0.0.0 t.1upsexer.com
-0.0.0.0 t.4cdn.org
 0.0.0.0 t.acam.link
 0.0.0.0 t.ashemaletube.com
 0.0.0.0 t.beautifulboobspics.com
@@ -20236,8 +20226,6 @@
 0.0.0.0 www.40somethingmag.com
 0.0.0.0 www.429men.com
 0.0.0.0 www.4adultin.com
-0.0.0.0 www.4chan.org
-0.0.0.0 www.4channel.org
 0.0.0.0 www.4club.com
 0.0.0.0 www.4everproxy.com
 0.0.0.0 www.4fuckr.com

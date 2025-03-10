@@ -566,15 +566,10 @@
 0.0.0.0 44cam.com
 0.0.0.0 480.d.u1.gosexpod.com
 0.0.0.0 4adultin.com
-0.0.0.0 4archive.org
 0.0.0.0 4asianporn.com
 0.0.0.0 4based.com
 0.0.0.0 4bir.com
 0.0.0.0 4cache.net
-0.0.0.0 4cdn.org
-0.0.0.0 4chan.com
-0.0.0.0 4chan.org
-0.0.0.0 4channel.org
 0.0.0.0 4everh0rny.tumblr.com
 0.0.0.0 4fuckr.com
 0.0.0.0 4girlsfingerpaint.com
@@ -5069,8 +5064,6 @@
 0.0.0.0 boafoda.com
 0.0.0.0 boaporno.com
 0.0.0.0 board.freeones.com
-0.0.0.0 boards.4chan.org
-0.0.0.0 boards.4channel.org
 0.0.0.0 boatart.eu
 0.0.0.0 bobbi-starr247.tumblr.com
 0.0.0.0 bobmovs.com
@@ -6370,7 +6363,6 @@
 0.0.0.0 cdn.3d-sexgames.com
 0.0.0.0 cdn.3gpjizz.info
 0.0.0.0 cdn.3gpkings.info
-0.0.0.0 cdn.4archive.org
 0.0.0.0 cdn.69games.xxx
 0.0.0.0 cdn.69xxxtube.com
 0.0.0.0 cdn.88fuck.com
@@ -16677,7 +16669,6 @@
 0.0.0.0 i-wank.ru
 0.0.0.0 i-want-a-female-slave.tumblr.com
 0.0.0.0 i-want-to-fuckyou.tumblr.com
-0.0.0.0 i.4cdn.org
 0.0.0.0 i.adult-admire.com
 0.0.0.0 i.analdin.com
 0.0.0.0 i.anysex.com
@@ -25610,7 +25601,6 @@
 0.0.0.0 partner.360os.com
 0.0.0.0 partner.cootekservice.com
 0.0.0.0 partners.adultadworld.com
-0.0.0.0 partners.patreon.com
 0.0.0.0 partners.pornhub.com
 0.0.0.0 parttimesissy.tumblr.com
 0.0.0.0 party-cams.com
@@ -25652,7 +25642,6 @@
 0.0.0.0 passwordslive.com
 0.0.0.0 patientsrevenge.com
 0.0.0.0 patogh.me
-0.0.0.0 patreon.com
 0.0.0.0 patricinhasexo.blogspot.com
 0.0.0.0 patrolxxx.com
 0.0.0.0 pattyloirinhasafadinha.blogspot.com
@@ -30425,7 +30414,6 @@
 0.0.0.0 s-manga.org
 0.0.0.0 s.1ts17.top
 0.0.0.0 s.365ittictic.com
-0.0.0.0 s.4cdn.org
 0.0.0.0 s.angelo.over-blog.org
 0.0.0.0 s.befap.com
 0.0.0.0 s.bhcont.com
@@ -34335,7 +34323,6 @@
 0.0.0.0 t-me-t-w-sandwich.tumblr.com
 0.0.0.0 t-s-s-a.com
 0.0.0.0 t-ssta.blogspot.com
-0.0.0.0 t.4cdn.org
 0.0.0.0 t.acam.link
 0.0.0.0 t.ashemaletube.com
 0.0.0.0 t.beautifulboobspics.com
@@ -39237,8 +39224,6 @@
 0.0.0.0 www.40somethingmag.com
 0.0.0.0 www.429men.com
 0.0.0.0 www.4adultin.com
-0.0.0.0 www.4chan.org
-0.0.0.0 www.4channel.org
 0.0.0.0 www.4club.com
 0.0.0.0 www.4everproxy.com
 0.0.0.0 www.4fappers.com
